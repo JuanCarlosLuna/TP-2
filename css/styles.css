@@ -19,7 +19,7 @@ header {
     color: white;
 }
 /* Logo superior izquierdo */
-.logo-container img {;
+.logo-container img {
     width: 200px; 
     height: auto;
     object-fit: cover; 
@@ -167,4 +167,5 @@ body {
         font-size: 1.2rem;
         width: 100px;
         text-align: center;
+}
 }
